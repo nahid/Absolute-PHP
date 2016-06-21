@@ -1,103 +1,70 @@
-<h1 id="সূচীপত্র">সূচীপত্র</h1>
-<ul>
-<li><a href="#introduction">সূচনা</a>
-<ul>
-<li><a href="#why-is-this-book">এ বইটিই কেন</a></li>
-<li><a href="#is-for-me">এ বইটি কি আমার জন্যে</a></li>
-<li><a href="#why-this-book-is-different">কেন এ বইটি অন্য বইয়ের থেকে আলাদা	</a></li>
-</ul>
-</li>
-<li><a href="#introduction">পিএইচপি</a>
-<ul>
-<li><a href="#why-is-this-book">পরিচিতি</a></li>
-<li><a href="#is-for-me">পিএইচপি কেন</a></li>
-<li><a href="#why-this-book-is-different">পিএইচপি কেন</a></li>
-<li><a href="#why-this-book-is-different">ইনস্টলেশন</a></li>
-</ul>
-</li>
-<li><a href="#introduction">PHP এর ব্যবহার</a>
-<ul>
-<li><a href="#why-is-this-book">এমবেডিং PHP</a></li>
-<li><a href="#is-for-me">সার্ভারের সাথে PHP</a></li>
-<li><a href="#why-this-book-is-different">Compile নাকি Interprete</a></li>
-</ul>
-</li>
-<li><a href="#introduction">প্রথম কোড</a>
-<ul>
-<li><a href="#why-is-this-book">Hello World লিখি</a></li>
-<li><a href="#is-for-me">যেভাবে PHP কোড লেখা শুরু করবো</a></li>
-<li><a href="#why-this-book-is-different">স্টেটমেন্ট</a></li>
-<li><a href="#why-this-book-is-different">কোড কমেন্ট</a></li>
-<li><a href="#why-this-book-is-different">এবার Hello World বুঝে লিখবো</a></li>
-<li><a href="#why-this-book-is-different">echo নাকি print</a></li>
-</ul>
-</li>
-<li><a href="#introduction">ভেরিয়েবল</a>
-<ul>
-<li><a href="#why-is-this-book">ভেরিয়বল কি এবং কেন</a></li>
-<li><a href="#is-for-me">ডাটা টাইপ</a></li>
-<li><a href="#why-this-book-is-different">কনস্ট্যান্ট</a></li>
-</ul>
-</li>
-<li><a href="#introduction">অপারেটর, অপারেন্ড ও অপারেশন</a>
-<ul>
-<li><a href="#why-is-this-book">এসাইনমেন্ট অপারেটর</a></li>
-<li><a href="#is-for-me">অরিথমেটিক অপারেটর</a></li>
-<li><a href="#why-this-book-is-different">কম্বাইনড এসাইনমেন্ট অপারেটর</a></li>
-<li><a href="#why-this-book-is-different">ইনক্রিমেন্ট অথবা ডিক্রিমেন্ট অপারেটর</a></li>
-<li><a href="#why-this-book-is-different">লজিক্যাল অপারেটর</a></li>
-<li><a href="#why-this-book-is-different">বিটওয়াইজ অপারেটর</a></li>
-<li><a href="#why-this-book-is-different">অপারেটরের অগ্রাধিকার</a></li>
-<li><a href="#why-this-book-is-different">এডিশনাল লজিক্যাল অপারেটর</a></li>
-</ul>
-</li>
-<li><a href="#introduction">স্ট্রিং</a>
-<ul>
-<li><a href="#why-is-this-book">কিভাবে স্ট্রিং লিখে</a></li>
-<li><a href="#is-for-me">সিঙ্গেল কোয়েট ও ডাবল কোয়েটের পার্থক্য</a></li>
-<li><a href="#why-this-book-is-different">স্ট্রিং যুক্ত করা</a></li>
-<li><a href="#why-this-book-is-different">ক্যারেক্টার এসকেপিং</a></li>
-</ul>
-</li>
-<li><a href="#introduction">এ্যারে</a>
-<ul>
-<li><a href="#why-is-this-book">সাধারন এ্যারে</a></li>
-<li><a href="#is-for-me">এসোসিয়েটিভ এ্যারে</a></li>
-<li><a href="#why-this-book-is-different">এ্যারের লেখার স্টাইল</a></li>
-<li><a href="#why-this-book-is-different">বহুমাত্রিক এ্যারে</a></li>
-</ul>
-</li>
-<li><a href="#introduction">কন্ডিশনস</a>
-<ul>
-<li><a href="#why-is-this-book">If কন্ডিশন	</a></li>
-<li><a href="#is-for-me">Switch স্টেটমেন্ট</a></li>
-<li><a href="#why-this-book-is-different">ভিন্ন উপায়ে কন্ডিশন</a></li>
-<li><a href="#why-this-book-is-different">মিক্সড মুড	</a></li>
-<li><a href="#why-this-book-is-different">টার্নারি অপারেটর</a></li>
-</ul>
-</li>
-<li><a href="#introduction">পূনরাবৃত্তি (লুপ)</a>
-<ul>
-<li><a href="#why-is-this-book">for লুপ	</a></li>
-<li><a href="#is-for-me">while লুপ	</a></li>
-<li><a href="#why-this-book-is-different">do while লুপ</a></li>
-<li><a href="#why-this-book-is-different">foreach লুপ	</a></li>
-<li><a href="#why-this-book-is-different">ভিন্ন পদ্ধতিতে লুপ</a></li>
-<li><a href="#why-this-book-is-different">break</a></li>
-<li><a href="#why-this-book-is-different">continue</a></li>
-<li><a href="#why-this-book-is-different">goto	</a></li>
-</ul>
-</li>
-<li><a href="#introduction">ফাংশন</a>
-<ul>
-<li><a href="#why-is-this-book">ফাংশন লেখা	</a></li>
-<li><a href="#is-for-me">ফাংশনকে কল করা	</a></li>
-<li><a href="#why-this-book-is-different">ফাংশনের প্যারামিটার</a></li>
-<li><a href="#why-this-book-is-different">ডিফল্ট প্যারামিটার</a></li>
-<li><a href="#why-this-book-is-different">প্যারামিটারের লিষ্ট</a></li>
-<li><a href="#why-this-book-is-different">Return ভ্যালু</a></li>
-<li><a href="#why-this-book-is-different">রিকার্সিভ ফাংশন	</a></li>
-<li><a href="#why-this-book-is-different">স্কোপ ও সময়সীমা	</a></li>
-</ul>
-</li>
-</ul>
+# সূচীপত্র
+
+- [সূচনা](#introduction)
+    - [এ বইটিই কেন](#why-is-this-book)
+    - [এ বইটি কি আমার জন্যে](#is-for-me)
+    - [কেন এ বইটি অন্য বইয়ের থেকে আলাদা	](#why-this-book-is-different)
+- [পিএইচপি](#introduction)
+    - [পরিচিতি](#why-is-this-book)
+    - [পিএইচপি কেন](#is-for-me)
+    - [পিএইচপি কেন](#why-this-book-is-different)
+    - [ইনস্টলেশন](#why-this-book-is-different)
+- [PHP এর ব্যবহার](#introduction)
+    - [এমবেডিং PHP](#why-is-this-book)
+    - [সার্ভারের সাথে PHP](#is-for-me)
+    - [Compile নাকি Interprete](#why-this-book-is-different)
+- [প্রথম কোড](#introduction)
+    - [Hello World লিখি](#why-is-this-book)
+    - [যেভাবে PHP কোড লেখা শুরু করবো](#is-for-me)
+    - [স্টেটমেন্ট](#why-this-book-is-different)
+	- [কোড কমেন্ট](#why-this-book-is-different)
+	- [এবার Hello World বুঝে লিখবো](#why-this-book-is-different)
+	- [echo নাকি print](#why-this-book-is-different)
+- [ভেরিয়েবল](#introduction)
+    - [ভেরিয়বল কি এবং কেন](#why-is-this-book)
+    - [ডাটা টাইপ](#is-for-me)
+    - [কনস্ট্যান্ট](#why-this-book-is-different)
+- [অপারেটর, অপারেন্ড ও অপারেশন](#introduction)
+    - [এসাইনমেন্ট অপারেটর](#why-is-this-book)
+    - [অরিথমেটিক অপারেটর](#is-for-me)
+    - [কম্বাইনড এসাইনমেন্ট অপারেটর](#why-this-book-is-different)
+	- [ইনক্রিমেন্ট অথবা ডিক্রিমেন্ট অপারেটর](#why-this-book-is-different)
+	- [লজিক্যাল অপারেটর](#why-this-book-is-different)
+	- [বিটওয়াইজ অপারেটর](#why-this-book-is-different)
+	- [অপারেটরের অগ্রাধিকার](#why-this-book-is-different)
+	- [এডিশনাল লজিক্যাল অপারেটর](#why-this-book-is-different)
+- [স্ট্রিং](#introduction)
+    - [কিভাবে স্ট্রিং লিখে](#why-is-this-book)
+    - [সিঙ্গেল কোয়েট ও ডাবল কোয়েটের পার্থক্য](#is-for-me)
+    - [স্ট্রিং যুক্ত করা](#why-this-book-is-different)
+	- [ক্যারেক্টার এসকেপিং](#why-this-book-is-different)
+- [এ্যারে](#introduction)
+    - [সাধারন এ্যারে](#why-is-this-book)
+    - [এসোসিয়েটিভ এ্যারে](#is-for-me)
+    - [এ্যারের লেখার স্টাইল](#why-this-book-is-different)
+	- [বহুমাত্রিক এ্যারে](#why-this-book-is-different)
+- [কন্ডিশনস](#introduction)
+    - [If কন্ডিশন	](#why-is-this-book)
+    - [Switch স্টেটমেন্ট](#is-for-me)
+    - [ভিন্ন উপায়ে কন্ডিশন](#why-this-book-is-different)
+	- [মিক্সড মুড	](#why-this-book-is-different)
+	- [টার্নারি অপারেটর](#why-this-book-is-different)
+- [পূনরাবৃত্তি (লুপ)](#introduction)
+    - [for লুপ	](#why-is-this-book)
+    - [while লুপ	](#is-for-me)
+    - [do while লুপ](#why-this-book-is-different)
+	- [foreach লুপ	](#why-this-book-is-different)
+	- [ভিন্ন পদ্ধতিতে লুপ](#why-this-book-is-different)
+	- [break](#why-this-book-is-different)
+	- [continue](#why-this-book-is-different)
+	- [goto	](#why-this-book-is-different)
+- [ফাংশন](#introduction)
+    - [ফাংশন লেখা	](#why-is-this-book)
+    - [ফাংশনকে কল করা	](#is-for-me)
+	- [ফাংশনের প্যারামিটার](#why-this-book-is-different)
+	- [ডিফল্ট প্যারামিটার](#why-this-book-is-different)
+	- [প্যারামিটারের লিষ্ট](#why-this-book-is-different)
+	- [Return ভ্যালু](#why-this-book-is-different)
+	- [রিকার্সিভ ফাংশন	](#why-this-book-is-different)
+	- [স্কোপ ও সময়সীমা	](#why-this-book-is-different)
+
