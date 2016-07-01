@@ -6,7 +6,6 @@
     - [কেন এ বইটি অন্য বইয়ের থেকে আলাদা	](#why-this-book-is-different)
 - [পিএইচপি](#introduction)
     - [পরিচিতি](#why-is-this-book)
-    - [পিএইচপি কেন](#is-for-me)
     - [পিএইচপি কেন](#why-this-book-is-different)
     - [ইনস্টলেশন](#why-this-book-is-different)
 - [PHP এর ব্যবহার](#introduction)
