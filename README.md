@@ -1,2 +1,4 @@
-# php-shohoj-pothe-book
-A complete php learning book in bangla
+# পিএইচপি এন্ড ওয়েব ডেভলপমেন্ট
+একটি পূর্নঙ্গ পিএইচপি ভিত্তিক ওয়েব ডেভলপমেন্ট এর বই।
+
+
