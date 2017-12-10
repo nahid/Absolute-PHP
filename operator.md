@@ -32,7 +32,7 @@ PHP তে বিভিন্ন ধরণের অপারেটর আছে
  
 
 # Example :
-
+<?php
 $x = 10;
 $y = 4;
 echo ($x + $y);    // 0utputs: 14
@@ -52,6 +52,8 @@ echo  ($x % $y);  // 0utputs: 2
 
 echo ($x ** $y);  // 0utputs: 10000
 
+?>
+
 # Assignment বা আরোপন অপারেটর:
 
 | উদাহরন      | অপারেটরের নাম   |ব্যাখ্যা   |
@@ -63,6 +65,7 @@ echo ($x ** $y);  // 0utputs: 10000
 |   $x % $y            |  Modulus (মডুলাস) এবং এসাইন    |   $x কে $y দিয়ে ভাগ করার পর অবশিষ্টাংশ  $x  এ এসাইন  করা  হয়েছে |  
    
 # Example :
+<?php
 
 $x = 10;
 echo $x; // Outputs: 10
@@ -86,5 +89,7 @@ echo $x; // Outputs: 5
 $x = 100;
 $x %= 15;
 echo $x; // Outputs: 10
+
+?>
 
 
