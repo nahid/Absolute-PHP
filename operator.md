@@ -92,16 +92,16 @@ echo $x; // Outputs: 10
 # comparision অপারেটর:
 
 | উদাহরন    | অপারেটরের নাম  |  ব্যাখ্যা  |
-| :------- | :---- | :--- |
-|$x == $y  |	Equal |	TRUE হবে যদি $x এবং $y  সমান হয়|
-|$x === $y |	Identical|	TRUE হবে যদি $x এবং $y সমান হয়,  এবং তাদের টাইপ একই হয় যেমন দুটোই স্ট্রিং বা পূর্নসংখ্যা হলে|
-|$x != $y  |	Not equal|	TRUE হবে $x এর সমান $y না হয় |
-|$x <> $y  |	Not equal|	TRUE হবে $x এর সমান $y না হয় |
-|$x !== $y |	Not identical|	TRUE হবে $x এর সমান $y না হয়, অথবা তাদের টাইপ একই না হয়। যেমন একটা স্ট্রিং এবং আরেকটা পূর্নসংখ্যা|
-|$x < $y   |	Less than |	TRUE হবে যদি $x ছোট হয় $y এর চেয়ে|
-|$x > $y   |	Greater than|	TRUE হবে $x বড় হয়  $y এর চেয়ে|
-|$x <= $y  |	Less than or equal to|	TRUE হবে যদি $x ছোট অথবা সমান হয় $y এর|
-|$x >= $y  |	Greater than or equal to	TRUE হবে $x বড় অথবা সমান হয় $y এর|
+| :---------- | :---- | :--- |
+| $x == $y    |	Equal |	TRUE হবে যদি $x এবং $y  সমান হয়|
+| $x === $y   |	Identical|	TRUE হবে যদি $x এবং $y সমান হয়,  এবং তাদের টাইপ একই হয় যেমন দুটোই স্ট্রিং বা পূর্নসংখ্যা হলে|
+| $x != $y    |	Not equal|	TRUE হবে $x এর সমান $y না হয় |
+| $x <> $y    |	Not equal|	TRUE হবে $x এর সমান $y না হয় |
+| $x !== $y   |	Not identical|	TRUE হবে $x এর সমান $y না হয়, অথবা তাদের টাইপ একই না হয়। যেমন একটা স্ট্রিং এবং আরেকটা পূর্নসংখ্যা|
+| $x < $y     |	Less than |	TRUE হবে যদি $x ছোট হয় $y এর চেয়ে|
+| $x > $y     |	Greater than|	TRUE হবে $x বড় হয়  $y এর চেয়ে|
+| $x <= $y    |	Less than or equal to|	TRUE হবে যদি $x ছোট অথবা সমান হয় $y এর|
+| $x >= $y    |	Greater than or equal to	TRUE হবে $x বড় অথবা সমান হয় $y এর|
 
 
  # logical অপারেটর:
