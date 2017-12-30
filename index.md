@@ -127,6 +127,7 @@
     - [Files and I/O](#)
     - [PHP Gotchas and Weird parts](#)
     - [Data Structure](#)
+    - [Time Complexity](#)
     - [অনুশীলন](#)
     - [Online Judge](#)
         - [What is Online Judge](#)
@@ -141,6 +142,7 @@
     - [Popular Libraries Overview](#)
     - [Popular Design Pattern](#)    
     - [Other useful resources](#)
+    - [শেষের কিছু কথা]()
     - [উত্তর](#)
     
 
