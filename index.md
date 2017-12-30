@@ -128,7 +128,7 @@
     - [PHP Gotchas and Weird parts](#)
     - [Data Structure](#)
     - [অনুশীলন](#)
-    - [Online Judge]
+    - [Online Judge](#)
         - [What is Online Judge](#)
         - [How to solve a problem](#)
         - [Why we practice in online judge](#)
@@ -139,6 +139,7 @@
     - [Style Guide, PSR](#)
     - [Popular Frameworks Overview](#)
     - [Popular Libraries Overview](#)
+    - [Popular Design Pattern](#)    
     - [Other useful resources](#)
     - [উত্তর](#)
     
