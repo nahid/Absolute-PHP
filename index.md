@@ -122,6 +122,7 @@
         - [Polymorphism এর ব্যবহার](#link)
         - [অনুশীলন](#)
     - [Interface](#)
+    - [Static Method](#)
     - [Traits](#)
     - [Error and Exception Handling](#)
     - [Files and I/O](#)
@@ -142,7 +143,7 @@
     - [Popular Libraries Overview](#)
     - [Popular Design Pattern](#)    
     - [Other useful resources](#)
-    - [শেষের কিছু কথা]()
+    - [শেষের কিছু কথা](#)
     - [উত্তর](#)
     
 
