@@ -129,6 +129,8 @@
     - [PHP Gotchas and Weird parts](#)
     - [Data Structure](#)
     - [Time Complexity](#)
+    - [Optimization ](#)
+    - [Security নিয়ে কিছু কথা](#)
     - [অনুশীলন](#)
     - [Online Judge](#)
         - [What is Online Judge](#)
